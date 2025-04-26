@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi There👋, Welcome To My Profile </h1>
+<h3 align="center">I´m Mohammad Asfour, an aspiring programmer and QA tester based is Stockholm</h3>
 
-<!--
-**Mohammadasfour0743/Mohammadasfour0743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center"> I have experience in QA testing, including unit, functional, regression, and more types of testing. Along with working as QA, I also enjoy writing code and solving problems. I have dabbled in many fields, including hardware and software, science or games, and I am open to any type of programming as long as it is fun!</h5>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently persuing a degree in **Information and Communication Technology**
+
+- ⚡ Trying to better myself in **programming and testing**
+
+- 📫 Reach me at **mohammad.asfour0743@gmail.com**
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,cs,html,css,git,unity,figma,arduino,matlab)](https://skillicons.dev)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammadasfour0743&show_icons=true&locale=en&layout=compact" alt="Mohammadasfour0743" /></p>
+
+
