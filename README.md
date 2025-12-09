@@ -21,6 +21,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,html,css,git,unity,figma,arduino,matlab)](https://skillicons.dev)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadasfour0743&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Mohammadasfour0743's GitHub Stats" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadasfour0743&show_icons=true&locale=en" alt="mohammadasfour0743" /></p>
 
 
